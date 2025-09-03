@@ -1,12 +1,13 @@
 #include <stdio.h>
-#include <stdlib.h>
 
-int main() 
-{
+int main() {
     float length, width, area;
 
-    printf("Enter length and width: ");
-    scanf("%f %f", &length, &width);
+    printf("Enter The width: ");
+    scanf("%f",&width);
+    printf("Enter The length: ");
+    scanf("%f",&length);
+
 
     area = length * width;
 
