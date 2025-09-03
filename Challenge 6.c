@@ -49,7 +49,7 @@ int main()
                 break;
             case 4:
                 gotoxy(30, 10);
-                if (n2 != 0) {
+                if (n2 == 0) {
                     Result = n1 / n2;
                     printf("%.2f / %.2f = %.2f\n", n1, n2, Result);
                 } else {

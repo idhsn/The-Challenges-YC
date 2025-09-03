@@ -14,9 +14,7 @@ int main()
     printf("Enter coordinates of Point 2 (x2 y2 z2): ");
     scanf("%lf %lf %lf", &x2, &y2, &z2);
 
-    distance = sqrt(pow(x2 - x1, 2) +
-                    pow(y2 - y1, 2) +
-                    pow(z2 - z1, 2));
+    distance = sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2) + pow(z2 - z1, 2));
 
     printf("The Euclidean distance between the two points is: %.4f\n", distance);
 
