@@ -12,7 +12,7 @@ int main() {
 
 
     if (a == 0) {
-        printf("Ce n'est pas une equation du second degree (a ne doit pas etre nul).\n");
+        printf("Ce n'est pas une equation du second degree.\n");
         return 1;
     }
     printf("entrez B : ");
