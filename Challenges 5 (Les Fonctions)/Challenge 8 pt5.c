@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int numberm, n;
+int number, n;
 int iseven(number) {
     return (number % 2 == 0) ? 1 : 0;
 }
