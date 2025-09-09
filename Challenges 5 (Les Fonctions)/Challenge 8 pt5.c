@@ -1,14 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int number, n;
-int iseven(number) {
-    return (number % 2 == 0) ? 1 : 0;
+int n;
+int iseven(n) {
+    return (n % 2 == 0) ? 1 : 0;
 }
 
 int main() {
 
-    printf("Enter an integer: ");
+    printf("Enter an integer : ");
     scanf("%d", &n);
 
     if (iseven(n) == 1) {
