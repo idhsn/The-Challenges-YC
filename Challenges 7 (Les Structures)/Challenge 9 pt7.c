@@ -8,7 +8,7 @@ struct Account {
 };
 
 void addFunds(struct Account *a, float value) {
-    a->amount += value;  // simpler pointer syntax
+    (*a).amount += value;
 }
 
 int main() {
