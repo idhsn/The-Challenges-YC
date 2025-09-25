@@ -131,16 +131,4 @@ Merge two arrays into one.
 
 ---
 
-## 💡 General Notes
-
-✅ Best practices:  
-- Validate array size (**> 0**)  
-- Use constants for max sizes  
-- Initialize variables before use  
-- Check array bounds  
-
-🔧 Useful functions:  
-- `scanf()` → input  
-- `printf()` → output  
-- `for` loops → traversal  
 - `if` → selective processing  
