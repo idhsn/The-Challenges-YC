@@ -107,13 +107,3 @@ Develop a program that checks if a substring exists in a main string.
 🎯 **Goal:** Implement pattern search algorithms.
 
 ---
-
-## 🧩 Key String Concepts
-
-### ✨ Memory Representation
-
-- Strings are character arrays ending with `'\0'`  
-- Declaration examples:  
-```c
-char str[100];
-char str[] = "text";
