@@ -107,17 +107,3 @@ Create a function that checks if a number is even or odd.
 🎯 **Goal:** Create boolean-style functions with clear conventions.
 
 ---
-
-## 🧩 Key Function Concepts
-
-### ✨ Declaration and Definition
-
-```c
-// Declaration (prototype)
-int ma_fonction(int param1, int param2);
-
-// Definition
-int ma_fonction(int param1, int param2) {
-    // Function body
-    return resultat;
-}
