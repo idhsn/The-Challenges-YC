@@ -6,7 +6,7 @@
 
 ## 📑 Table of Contents  
 - [📌 About](#-about)  
-- [🛠️ Requirements](#-requirements)  
+- [🛠️ Requirements](#️-requirements)  
 - [🚀 How to Run](#-how-to-run)  
 - [🎯 Purpose](#-purpose)  
 - [👤 Author](#-author)  
