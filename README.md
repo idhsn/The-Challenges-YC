@@ -1,6 +1,6 @@
 # The-Challenges-YC  
 
-![Language](https://img.shields.io/badge/language-C-blue)  ![School](https://img.shields.io/badge/YouCode-School-orange)  ![Status](https://img.shields.io/badge/learning-in%20progress-brightgreen)  ![License](https://img.shields.io/badge/license-MIT-lightgrey)  ![Getting Started](https://img.shields.io/badge/getting_started-quick-red)  ![Build & Compile](https://img.shields.io/badge/compiler-BorlandC-lightgrey)  
+![Language](https://img.shields.io/badge/language-C-blue)  ![School](https://img.shields.io/badge/YouCode-School-orange)  ![Status](https://img.shields.io/badge/learning-in%20progress-brightgreen)  ![License](https://img.shields.io/badge/license-MIT-lightgrey)  ![Build & Compile](https://img.shields.io/badge/compiler-BorlandC-lightgrey)  
 
 ---
 
